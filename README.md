@@ -1,7 +1,9 @@
 # eee-immigration-proj
 # 김호준 전기전자공학부 전과 프로젝트입니다 </br>
 겨울에 고양이가 도통 움직이지를 않아서 고양이를 놀아줄 방법을 고안해 보았습니다 <br/>
-어린아이와 함께 이용해도 재미있을 것입니다 <br/>
+<img width="30%" src="https://github.com/Kevin-H-Kim/eee-immigration-proj/assets/126481852/b53d7ca7-b7ef-4aeb-a90d-938000583a1e"/> <br/>
+<br/>
+고양이가 아닌 어린아이와 함께 가지고 놀아도 재미있을 것입니다 <br/>
 LED가 부착된 발광 아케이드 버튼과 I2C LCD 모듈을 이용했습니다 <br/>
 
 
