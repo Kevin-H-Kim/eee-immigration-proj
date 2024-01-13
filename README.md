@@ -8,7 +8,7 @@ LED가 부착된 발광 아케이드 버튼과 I2C LCD 모듈을 이용했습니
 
 ## 작동 영상 <br/>
 [![Video Label](http://img.youtube.com/vi/KFbardUWA8k/0.jpg)](https://youtu.be/KFbardUWA8k) <br/>
-위 스크린샷 클릭 시 영상이 재생됩니다
+위 썸네일 클릭 시 영상이 재생됩니다
 
 
 ## 사진 <br/>
