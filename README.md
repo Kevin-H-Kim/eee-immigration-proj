@@ -6,6 +6,9 @@
 고양이가 아닌 어린아이와 함께 가지고 놀아도 재미있을 것입니다 <br/>
 LED가 부착된 발광 아케이드 버튼과 I2C LCD 모듈을 이용했습니다 <br/>
 
+## 작동 영상 <br/>
+[![Video Label](http://img.youtube.com/vi/KFbardUWA8k/0.jpg)](https://youtu.be/KFbardUWA8k)
+
 
 ## 사진 <br/>
 <img width="65%" src="https://github.com/Kevin-H-Kim/eee-immigration-proj/assets/126481852/60793ab0-76ef-4496-9cf0-6761d84102d7"/>
